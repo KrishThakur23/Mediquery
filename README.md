@@ -7,6 +7,9 @@
 
 MediQuery is an intelligent healthcare analytics copilot that transforms natural language questions into actionable medical insights. Built on MindsDB's AI infrastructure, it enables hospitals, clinics, and researchers to analyze patient feedback, satisfaction surveys, and treatment effectiveness without writing complex SQL queries.
 
+Team / Function - Customer/ Support
+Healthcare and Life Sciences -Patient feedback
+
 ## � Probledm Statement
 
 ### The Healthcare Analytics Challenge
@@ -817,5 +820,9 @@ GROUP BY department;
 - The healthcare analytics community for inspiration and feedback
 
 ---
+Blog (Linkdin) - https://www.linkedin.com/posts/gaurav-pawar-aa8a93276_healthtech-aiinnovation-dataanalytics-activity-7390175466189467648-eWDf?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAENvi2ABqh05Qp5FWolONL1Tukg9GTg_FU0&utm_campaign=whatsapp
 
+Youtube Video - https://youtu.be/dwu381WvOak?si=vCQL_zTXTmKW7At4 
+
+twitter link - https://x.com/pawar_gaur1214/status/1984415724568527284
 **Made with ❤️ for better healthcare analytics**
